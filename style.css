@@ -1,0 +1,13 @@
+.done {
+  color: white;
+  background-color: green;
+}
+
+li {
+  padding: .5rem;
+  width: 35vw;
+}
+
+button {
+  margin-left: 15px;
+}
